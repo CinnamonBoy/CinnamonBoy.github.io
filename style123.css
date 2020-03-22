@@ -1,0 +1,176 @@
+
+body
+{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(255, 255, 227);
+}
+.logo
+{
+    height: 70px;
+    border-radius: 20px;
+    margin-left: auto;
+}
+.head
+{
+    height: auto;
+    width: 100%;
+
+}
+.nam
+{
+    font-family: 'Pacifico', cursive;
+    font-size: 150px;
+    text-align: center;
+    position: inherit;
+    background-color: rgb(255, 255, 227);
+    height: 270px;
+}
+.menu{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 30px 10%;
+    border-top: 5px black solid;
+    border-bottom: 5px black solid;
+    background-color: rgb(255, 255, 250);
+    height: 15px;
+    position: sticky;
+    top: 0;
+}
+ul
+{
+    flex-direction: row;
+}
+.navb
+{
+    list-style: none;
+}
+.navb li {
+    display: inline-block;
+    padding:5px 20px ;
+    box-sizing: border-box;
+    line-height: 40px;
+}
+.navb li a{
+    text-decoration: none;
+    color: #000;
+    font-family: 'Fredoka One', cursive;
+    font-size: medium;
+    transition: ease-in-out 0.3s;
+}
+.navb li a:hover{
+    transition: ease-in-out 0.2s;
+    color: rgba(0, 0, 0, 0.644);
+}
+.content
+{
+    margin: 0px 180px ;
+    font-size: 30px;
+    font-family: 'Lato', sans-serif;
+    align-content: center;
+    color: rgba(0, 0, 0, 0.644) ;
+}
+.zdj1
+{
+    border-radius: 3px;
+    float: left;
+    margin-right: 50px;
+}
+.divider
+{
+    height: 10px;
+}
+h1,h2,h3
+{
+    color: black;
+}
+.divider{
+    height:300px;
+}
+.prod
+{
+    float:right;
+}
+.produkty{
+    clear: both;
+    height: 650px;
+    display: flex;
+}
+.prd1,.prd2,.prd3{
+    flex: 1;
+    color: black;
+    margin: 10px;
+}
+.prd1,.prd2,.prd3{
+    text-align: center;
+}
+.prod1,.prod2
+{
+    margin-top: 20px;
+    width: 100%;
+    text-align: center;
+}
+.divider2
+{
+    height: 150px;
+}
+.footer
+{
+    height: 700px;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+}
+.footer p
+{
+    font-size: 50px;
+}
+.mapa
+{
+    border-radius: 4px;
+    border: black solid 5px;
+}
+form
+{
+    text-align: center;
+    justify-content: center;
+    width: 400px;
+    margin: 20px auto;
+    flex: 1;
+}
+.iin
+{
+    font-size: 30px;
+    margin:20px 0px;
+    display: block;
+    padding: 10px;
+}
+.ein
+{
+    font-size: 30px;
+    margin:20px 0px;
+    display: block;
+    padding: 10px;
+}
+.txtf
+{
+    font-size: 30px;
+    margin:20px 0px;
+    height: 250px;
+    display: block;
+    padding: 10px;
+}
+.fcnt{
+    display: flex;
+    justify-content: center;
+}
+.info{
+    flex: 1;
+    margin:20px 0px;
+    width: 300px;
+}
+.info p{
+    font-size: 24px;
+    margin-top: 20px;
+    padding: 15px;
+}
