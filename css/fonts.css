@@ -1,0 +1,63 @@
+@font-face {
+    font-family: 'oxygenbold';
+    src: url('../fas/oxygen-bold-webfont.woff2') format('woff2'),
+         url('../fas/oxygen-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'oxygenlight';
+    src: url('../fas/oxygen-light-webfont.woff2') format('woff2'),
+         url('../fas/oxygen-light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'oxygenregular';
+    src: url('../fas/oxygen-regular-webfont.woff2') format('woff2'),
+         url('../fas/oxygen-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'poiret_oneregular';
+    src: url('../fas/poiretone-regular-webfont.woff2') format('woff2'),
+         url('../fas/poiretone-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'caviar_dreamsbold';
+    src: url('../fas/caviar_dreams_bold-webfont.woff2') format('woff2'),
+         url('../fas/caviar_dreams_bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'caviar_dreamsregular';
+    src: url('../fas/caviardreams-webfont.woff2') format('woff2'),
+         url('../fas/caviardreams-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'bellotabold';
+    src: url('../fas/bellota-bold-webfont.woff2') format('woff2'),
+         url('../fas/bellota-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'bellotaregular';
+    src: url('../fas/bellota-regular-webfont.woff2') format('woff2'),
+         url('../fas/bellota-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
